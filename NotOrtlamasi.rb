@@ -33,5 +33,5 @@ else
       puts 'FF'
 end
 
- puts "Your grade #{letter_grannde}"
+ puts "Your grade #{letter_grande}"
 end
